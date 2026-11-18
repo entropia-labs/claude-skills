@@ -1,0 +1,9 @@
+{
+  "name": "data-room",
+  "displayName": "Entropia Data Room",
+  "version": "0.1.0",
+  "description": "Prepare documents for an Entropia data room: NDA templates for electronic signature through Youtrust",
+  "author": {
+    "name": "Entropia"
+  }
+}

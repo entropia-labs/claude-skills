@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "entropia",
+  "owner": {
+    "name": "Entropia"
+  },
+  "description": "Claude plugins for Entropia customers",
+  "plugins": [
+    {
+      "name": "data-room",
+      "source": "./plugins/data-room",
+      "displayName": "Entropia Data Room",
+      "description": "Prepare documents for an Entropia data room: NDA templates for electronic signature through Youtrust",
+      "category": "productivity"
+    }
+  ]
+}
